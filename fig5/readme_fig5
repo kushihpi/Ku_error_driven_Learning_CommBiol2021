@@ -1,1 +1,3 @@
-
+Use the performance data provided in the supplementary_data.xlsx/fig5
+Use the anneindex.m in folder fig1 to estimate the behavior
+Use the f_mysmoothfr.m in this folder to estimate the firing rate
