@@ -1,1 +1,6 @@
-test
+fig1c
+Use the anneindex.m as an example script to estimate the behavior performance.
+All matlab codes written by Anne C. Smith 2004
+publication: Smith, A. C. et al. Dynamic analysis of learning in behavioral experiments. The Journal of neuroscience : 24, 447-461, doi:10.1523/JNEUROSCI.2908-03.2004 (2004).
+matlab version R2013b
+
